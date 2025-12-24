@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple **Accordion component** built with **React**, where the content is dynamically loaded from a `data.js` file.  
+This is a simple **Accordion component** built with **React**, without any library where the content is dynamically loaded from a `data.js` file.  
 The project demonstrates:
 
 - React functional components
@@ -36,3 +36,11 @@ accordion-react/
 │─ data.js # Data file with accordion content
 ├─ package.json
 └─ README.md
+
+## Live Preview
+
+- https://react-side-project-accordion.vercel.app/
+
+## Github Repo
+
+- https://github.com/Abdelrahman-SE/react-sideProject-Accordion
