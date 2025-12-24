@@ -21,7 +21,7 @@ The project demonstrates:
 
 - React (Functional Components)
 - JavaScript (ES6)
-- CSS for styling
+- TailwindCSS for styling
 
 ## Project Structure
 
